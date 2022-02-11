@@ -1,0 +1,3 @@
+# Uninstalling anaconda in linux
+
+rm -rf ~/anaconda3
