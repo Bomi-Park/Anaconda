@@ -1,0 +1,5 @@
+# Download anaconda with version 3.9
+# Version check link : https://www.anaconda.com/products/individual
+
+wget https://repo.anaconda.com/archive/Anaconda3-2021.11-Linux-x86_64.sh
+bash Anaconda3-2019.10-Linux-x86_64.sh
